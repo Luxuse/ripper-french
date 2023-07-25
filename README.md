@@ -4,9 +4,9 @@
   </h1>
 
   <p align="center">
-    Rar Ripper: quebrando senhas (com wordlists) de arquivos criptografados
-    ".rar", através do Batch Script.<br/> Ideal para os esquecidos de 
-    plantão, extremamente útil para senhas curtas e simples.
+      Rar Ripper: cracking mots de passe (avec des listes de mots) de fichiers cryptés
+    « .rar », via Batch Script.<br/> Idéal pour les oubliés 
+    Extrêmement utile pour les mots de passe courts et simples.
   </p>
 </div>
 
@@ -31,36 +31,36 @@ voila petite traduction pas parfaite mais paratique
 
 ## 💻 Batch Script e o ambiente Windows
 
-Batch em uma tradução livre significa lotes (algo que se reparte, que é divido), ou
-seja, um conjunto ou grupo de intruções a serem executadas (sequencialmente) pelo computador sem a intervenção do usuário. Em geral, o Batch Script ou arquivo
-batch (lotes) contém linhas de comandos/comandos que podem ser executados pelo
-interpretador do Windows, o famoso **cmd.exe** ou Command Prompt.
+Lot dans une traduction libre signifie beaucoup (quelque chose qui est divisé, qui est divisé), ou
+C’est-à-dire un ensemble ou un groupe d’instructions à exécuter (séquentiellement) par l’ordinateur sans intervention de l’utilisateur. En général, le script batch ou le fichier
+batch contient des lignes de commande/commandes qui peuvent être exécutées par
+Interpréteur Windows, le fameux **cmd.exe** ou Invite de commandes.
 
-> Observações: o Batch é uma "linguagem" extremamente lenta e fraca, porém, pode
-> ser usada para automatizar tarefas e resolver problemas no ambiente Windows.
+> Notes: Batch est un « langage » extrêmement lent et faible, mais il peut
+> être utilisé pour automatiser les tâches et résoudre les problèmes dans l’environnement Windows.
 
-## :wrench: Como executar no ambiente local?
+## :wrench : Comment fonctionner dans l'environnement local ?
 
-### Guia de instalação
+### Guide d'installation
 
-1. Faça o clone do repositório através do Git (sistema de versionamento de código).
+1. Cloner le dépôt via Git (système de versionnement de code).
 
-   1.2 Se você não realizou a intalação dessa ferramenta na sua máquina,
-   não se preocupe, porque existem outras alternativas. Minha recomendação é clicar
-   no botão "code" e fazer do download do reposirório como Zip, basta extrair os
-   arquivos e acessar o diretório pelo CMD. Use o comando `cd` para nevegar ou alterar
-   diretórios/pastas.
-
+   1.2 Si vous n'avez pas installé cet outil sur votre machine,
+   ne vous inquiétez pas, car il existe d'autres alternatives. Je vous recommande de cliquer
+   sur le bouton "code" et de télécharger le dépôt au format Zip, il suffit d'extraire les fichiers et d'accéder au répertoire par CMD.
+   fichiers et d'accéder au répertoire par CMD. Utilisez la commande `cd` pour changer de répertoire ou de dossier.
+   répertoires/dossiers.
 ```batch
 $ git clone https://github.com/lucasbernardol/rar-ripper.git
 
 $ cd rar-ripper/
 ```
 
-2. Para executar um arquivo de lotes (batch) como a extensão `.bat` ou `.cmd`,
-   é necessário abrir uma instância do CMD na mesma pasta/diretório do arquivo
-   `Ripper.bat` e seguir as intruções abaixo. Você tembém pode optar pela interface
-   gráfia e o "explorar.exe", basta dá um duplo click no arquivo .bat.
+2.  Pour exécuter un fichier batch avec l'extension `.bat` ou `.cmd`,
+   il est nécessaire d'ouvrir une instance CMD dans le même dossier/répertoire que le fichier
+   `Ripper.bat` et suivre les instructions ci-dessous. Vous pouvez également opter pour l'interface
+   et `explore.exe`, il suffit de double-cliquer sur le fichier .bat.
+
 
 ```batch
 :: Excutar o script para qubrar senhas de arquivos ".rar".
@@ -98,9 +98,9 @@ REM (Não possui riscos).
 :: Área de Trabalho, porém, é oculto.
 ```
 
-Se você chegou até aqui, acredito que esse guia de instalação de ajudou, parabéns.
-Obrigado por testar o meu programinha, fique à vontade para contribuir ou até
-mesmo me dá um estrelinha. Até mais 👋👋.
+Si vous êtes arrivé jusqu'ici, je pense que ce guide d'installation vous a aidé, félicitations.
+Merci d'avoir essayé mon petit programme, n'hésitez pas à contribuer ou même à me donner une étoile.
+même me donner une étoile. A bientôt 👋👋.
 
 ## :boy: Autor et traducteur
 

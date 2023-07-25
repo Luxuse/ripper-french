@@ -23,6 +23,7 @@
 <p align="center">
   <small>
     Build with ❤️ by: <a href="https://github.com/lucasbernardol">José Lucas</a>
+   traduit by: <a href="https://github.com/lucasbernardol">Luxuse</a>
   </small>
 </p>
 ## 💻 le traducteur 

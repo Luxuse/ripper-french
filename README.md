@@ -103,6 +103,21 @@ mesmo me dá um estrelinha. Até mais 👋👋.
 
 ## :boy: Autor
 
+<table class="traducteur">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Luxuse">
+        <img src="https://avatars.githubusercontent.com/u/82418341?v=4" 
+        width="100px;" alt="Mathéo simard"/>
+        <br/>
+        <sub>
+          <b>José Lucas</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <table class="author">
   <tr>
     <td align="center">

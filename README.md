@@ -101,7 +101,7 @@ Se você chegou até aqui, acredito que esse guia de instalação de ajudou, par
 Obrigado por testar o meu programinha, fique à vontade para contribuir ou até
 mesmo me dá um estrelinha. Até mais 👋👋.
 
-## :boy: Autor
+## :boy: Autor et traducteur
 
 <table class="traducteur">
   <tr>

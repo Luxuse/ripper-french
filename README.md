@@ -111,7 +111,7 @@ mesmo me dá um estrelinha. Até mais 👋👋.
         width="100px;" alt="Mathéo simard"/>
         <br/>
         <sub>
-          <b>José Lucas</b>
+          <b>luxuse matheo simard</b>
         </sub>
       </a>
     </td>

@@ -109,7 +109,7 @@ même me donner une étoile. A bientôt 👋👋.
     <td align="center">
       <a href="https://github.com/Luxuse">
         <img src="https://avatars.githubusercontent.com/u/137567329?s=400&u=51286bbea1c5a95e9a7917fe240c5cf75afd7f31&v=4" 
-        width="100px;" alt="Mathéo simard"/>
+        width="100px;" alt="Mathéo luxuse"/>
         <br/>
         <sub>
           <b>luxuse matheo simard</b>

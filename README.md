@@ -112,7 +112,7 @@ même me donner une étoile. A bientôt 👋👋.
         width="100px;" alt="Mathéo luxuse"/>
         <br/>
         <sub>
-          <b>luxuse matheo simard</b>
+          <b>luxuse matheo luxuse</b>
         </sub>
       </a>
     </td>

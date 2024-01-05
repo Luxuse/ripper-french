@@ -119,15 +119,7 @@ même me donner une étoile. A bientôt 👋👋.
   </tr>
 </table>
 
-<table class="author">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/lucasbernardol">
-        <img src="https://avatars.githubusercontent.com/u/82418341?v=4" 
-        width="100px;" alt="José Lucas"/>
-        <br/>
-        <sub>
-          <b>José Lucas</b>
+
         </sub>
       </a>
     </td>
